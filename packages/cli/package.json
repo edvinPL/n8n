@@ -140,6 +140,7 @@
     "n8n-core": "workspace:*",
     "n8n-editor-ui": "workspace:*",
     "n8n-nodes-base": "workspace:*",
+    "n8n-nodes-notion-markdown": "github:JingerTea/n8n-nodes-notion-markdown",
     "n8n-workflow": "workspace:*",
     "nanoid": "catalog:",
     "nodemailer": "6.9.9",
